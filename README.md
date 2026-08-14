@@ -1,1 +1,1 @@
-# Laboratorio-de-Control-Autom-tico
+# Laboratorio de Control Automático
